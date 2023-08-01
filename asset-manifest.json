@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/error-modal/static/css/main.1e075924.css",
+    "main.js": "/error-modal/static/js/main.33291827.js",
+    "index.html": "/error-modal/index.html",
+    "main.1e075924.css.map": "/error-modal/static/css/main.1e075924.css.map",
+    "main.33291827.js.map": "/error-modal/static/js/main.33291827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e075924.css",
+    "static/js/main.33291827.js"
+  ]
+}
